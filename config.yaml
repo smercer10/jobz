@@ -1,0 +1,10 @@
+search-term: "Go Developer"
+job-location: "London"
+description-blacklist:
+  - "the"
+  - "to"
+  - "will"
+  - "need"
+  - "be"
+  - "with"
+  - "and"
